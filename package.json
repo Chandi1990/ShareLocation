@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-firebase/app": "^10.8.1",
+    "@react-native-firebase/firestore": "^10.8.1",
     "@types/pubnub": "^4.29.0",
     "prop-types": "^15.7.2",
     "pubnub": "4.27.3",
